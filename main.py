@@ -7,6 +7,8 @@ from concurrent.futures import ThreadPoolExecutor
 import time
 import os
 
+os.system('cls' if os.name == 'nt' else 'clear')
+
 GREEN = "\033[92m"
 RED = "\033[91m"
 RESET = "\033[0m"
