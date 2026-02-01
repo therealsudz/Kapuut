@@ -61,6 +61,16 @@ The author is NOT responsible for misuse.
 - Python 3.9+
 - Google Chrome
 
+Clone the repository:
+```bash
+git clone https://github.com/therealsudz/Kapuut.git
+```
+
+Enter the project directory:
+```bash
+cd Kapuut
+```
+
 Install dependencies:
 ```bash
 pip install -r requirements.txt
@@ -79,6 +89,7 @@ You will be prompted for:
 - multithreading configuration
 
 All interaction is done through real browser automation.
+You are now ready to run the project.
 
 ## 🎓 Who is this for?
 - aspiring pentesters
